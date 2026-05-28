@@ -12,6 +12,7 @@ export const MAX_LOGO_BYTES = 500 * 1024;
 export const REQUIRED_LOGO_DIMENSION = 256;
 export const GITHUB_ORG = "tipspay-dev";
 export const GITHUB_REPO = "tipschain-assets";
+export const PUBLIC_ASSET_BASE_URL = "https://tipschain.online";
 export const TOKEN_LIST_FILE = path.resolve(process.cwd(), "tips-token-list.json");
 
 const tokenInfoSchema = z.object({
@@ -228,7 +229,7 @@ export async function collectValidatedAssets(): Promise<ValidatedAsset[]> {
 }
 
 export function buildLogoUri(address: string): string {
-  return `https://raw.githubusercontent.com/${GITHUB_ORG}/${GITHUB_REPO}/main/tokens/${CHAIN_ID}/${address}/logo.png`;
+  return `${PUBLIC_ASSET_BASE_URL}/tokens/${CHAIN_ID}/${address}/logo.png`;
 }
 
 export function nextPatchVersion(existing: unknown): TokenListVersion {
