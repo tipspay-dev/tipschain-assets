@@ -1,10 +1,10 @@
 {
   "name": "TipsChain Asset Registry",
-  "timestamp": "2026-05-28T10:30:02.608Z",
+  "timestamp": "2026-05-28T10:32:45.914Z",
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 3
+    "patch": 4
   },
   "keywords": [
     "tipschain",
@@ -20,6 +20,14 @@
       "symbol": "TPC",
       "decimals": 18,
       "logoURI": "https://tipschain.online/tokens/1925/0x0000000000000000000000000000000000000000/logo.png"
+    },
+    {
+      "chainId": 1925,
+      "address": "0x5F1136e6A56901B6b10100734052aB44290f312E",
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "decimals": 18,
+      "logoURI": "https://tipschain.online/tokens/1925/0x5F1136e6A56901B6b10100734052aB44290f312E/logo.png"
     },
     {
       "chainId": 1925,
