@@ -1,0 +1,57 @@
+{
+  "name": "TipsChain Asset Registry",
+  "timestamp": "2026-05-28T03:01:23.619Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 1
+  },
+  "keywords": [
+    "tipschain",
+    "evm",
+    "assets",
+    "token-list"
+  ],
+  "tokens": [
+    {
+      "chainId": 1925,
+      "address": "0x0000000000000000000000000000000000000000",
+      "name": "Tips Coin",
+      "symbol": "TPC",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/tipspay-dev/tipschain-assets/main/tokens/1925/0x0000000000000000000000000000000000000000/logo.png"
+    },
+    {
+      "chainId": 1925,
+      "address": "0x0Da83f37944580933a31B6fb8E36b6cafEA3132A",
+      "name": "US Digital",
+      "symbol": "USCD",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/tipspay-dev/tipschain-assets/main/tokens/1925/0x0Da83f37944580933a31B6fb8E36b6cafEA3132A/logo.png"
+    },
+    {
+      "chainId": 1925,
+      "address": "0xF1285276D12A115894f77d3743C745AA863972FC",
+      "name": "Tips USC",
+      "symbol": "USCT",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/tipspay-dev/tipschain-assets/main/tokens/1925/0xF1285276D12A115894f77d3743C745AA863972FC/logo.png"
+    },
+    {
+      "chainId": 1925,
+      "address": "0x1Ac3224dc008Ee48005C59C019423032B724D94f",
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/tipspay-dev/tipschain-assets/main/tokens/1925/0x1Ac3224dc008Ee48005C59C019423032B724D94f/logo.png"
+    },
+    {
+      "chainId": 1925,
+      "address": "0xd55B5b325a63F7828Ba6638D3Fc0d3493f1AB948",
+      "name": "Wrapped Tips Coin",
+      "symbol": "WTPC",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/tipspay-dev/tipschain-assets/main/tokens/1925/0xd55B5b325a63F7828Ba6638D3Fc0d3493f1AB948/logo.png"
+    }
+  ]
+}

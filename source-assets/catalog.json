@@ -1,0 +1,107 @@
+[
+  {
+    "name": "tron",
+    "sourcePath": "/home/architect/İndirilenler/tron.png",
+    "status": "staged-source"
+  },
+  {
+    "name": "solana",
+    "sourcePath": "/home/architect/İndirilenler/solana.png",
+    "status": "staged-source"
+  },
+  {
+    "name": "polygon",
+    "sourcePath": "/home/architect/İndirilenler/polygon.png",
+    "status": "staged-source"
+  },
+  {
+    "name": "optimism",
+    "sourcePath": "/home/architect/İndirilenler/optimism.png",
+    "status": "staged-source"
+  },
+  {
+    "name": "near-protocol",
+    "sourcePath": "/home/architect/İndirilenler/near-protocol.png",
+    "status": "staged-source"
+  },
+  {
+    "name": "fantom",
+    "sourcePath": "/home/architect/İndirilenler/fantom.png",
+    "status": "staged-source"
+  },
+  {
+    "name": "cosmos",
+    "sourcePath": "/home/architect/İndirilenler/cosmos.png",
+    "status": "staged-source"
+  },
+  {
+    "name": "cardano",
+    "sourcePath": "/home/architect/İndirilenler/cardano.png",
+    "status": "staged-source"
+  },
+  {
+    "name": "binance-smart-chain",
+    "sourcePath": "/home/architect/İndirilenler/binance-smart-chain.png",
+    "status": "staged-source"
+  },
+  {
+    "name": "avalanche",
+    "sourcePath": "/home/architect/İndirilenler/avalanche.png",
+    "status": "staged-source"
+  },
+  {
+    "name": "arbitrum",
+    "sourcePath": "/home/architect/İndirilenler/arbitrum.png",
+    "status": "staged-source"
+  },
+  {
+    "name": "aptos",
+    "sourcePath": "/home/architect/İndirilenler/aptos.png",
+    "status": "staged-source"
+  },
+  {
+    "name": "tipschain-logo",
+    "sourcePath": "/home/architect/İndirilenler/tipschain logo.png",
+    "status": "native-asset-source"
+  },
+  {
+    "name": "tipswallet-logo-2",
+    "sourcePath": "/home/architect/İndirilenler/601dfb962_TipsWallet-Logo (2).png",
+    "status": "staged-source"
+  },
+  {
+    "name": "tipswallet-logo-1",
+    "sourcePath": "/home/architect/İndirilenler/601dfb962_TipsWallet-Logo (1).png",
+    "status": "staged-source"
+  },
+  {
+    "name": "tipswallet-logo",
+    "sourcePath": "/home/architect/İndirilenler/601dfb962_TipsWallet-Logo.png",
+    "status": "staged-source"
+  },
+  {
+    "name": "whatsie-1",
+    "sourcePath": "/home/architect/İndirilenler/WhatSie/WhatsApp Image 2026-05-28 at 05.52.48.jpeg",
+    "status": "staged-source"
+  },
+  {
+    "name": "whatsie-2",
+    "sourcePath": "/home/architect/İndirilenler/WhatSie/WhatsApp Image 2026-05-28 at 05.53.17.jpeg",
+    "status": "staged-source"
+  },
+  {
+    "name": "whatsie-3",
+    "sourcePath": "/home/architect/İndirilenler/WhatSie/ffjgz_WhatsApp Image 2026-05-28 at 05.52.48.jpeg",
+    "status": "staged-source"
+  },
+  {
+    "name": "whatsie-4",
+    "sourcePath": "/home/architect/İndirilenler/WhatSie/gnpkg_WhatsApp Image 2026-05-28 at 05.52.48.jpeg",
+    "status": "staged-source"
+  },
+  {
+    "name": "whatsie-5",
+    "sourcePath": "/home/architect/İndirilenler/WhatSie/xqsez_WhatsApp Image 2026-05-28 at 05.52.48.jpeg",
+    "status": "staged-source"
+  }
+]
